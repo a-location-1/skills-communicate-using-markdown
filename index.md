@@ -20,6 +20,6 @@ for i in range(10):
     print(i)
 ```
 
-- [ ] Add photo credit
+- [x] Add photo credit
 - [x] Execute Step 4
-- [ ] Execute Step 5
+- [x] Execute Step 5
