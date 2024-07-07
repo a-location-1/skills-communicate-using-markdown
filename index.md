@@ -17,3 +17,7 @@ print("Hello, world!") #this script prints "Hello, world!"
 for i in range(10):
     print(i)
 ```
+
+- [ ] Add photo credit
+- [x] Execute Step 4
+- [ ] Execute Step 5
